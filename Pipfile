@@ -8,6 +8,7 @@ langchain = "*"
 langchain-openai = "*"
 load-dotenv = "*"
 langchainhub = "*"
+tweepy = "*"
 
 [dev-packages]
 
