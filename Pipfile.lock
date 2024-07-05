@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "a797def05fda24bd06064ee4e60dc32f2c5bbc5684a696c7cf9ac8e0a0465a39"
+            "sha256": "872c2b0bac70e251bcca805481421e74864fe5ea40f1034593fc0471a99276af"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -406,6 +406,15 @@
             ],
             "markers": "python_version < '4.0' and python_full_version >= '3.8.1'",
             "version": "==0.2.2"
+        },
+        "langchainhub": {
+            "hashes": [
+                "sha256:499fa8958233071f35750987f325005d16241bebd455163955b607c195c37f25",
+                "sha256:b3cbb5b2d7d6f9c3f89748bcc74424d8030ed4ebca58b5f44e0b6d9f111e33eb"
+            ],
+            "index": "pypi",
+            "markers": "python_version < '4.0' and python_full_version >= '3.8.1'",
+            "version": "==0.1.20"
         },
         "langsmith": {
             "hashes": [
@@ -960,11 +969,11 @@
         },
         "tenacity": {
             "hashes": [
-                "sha256:9e6f7cf7da729125c7437222f8a522279751cdfbe6b67bfe64f75d3a348661b2",
-                "sha256:cd80a53a79336edba8489e767f729e4f391c896956b57140b5d7511a64bbd3ef"
+                "sha256:8bc6c0c8a09b31e6cad13c47afbed1a567518250a9a171418582ed8d9c20ca78",
+                "sha256:b594c2a5945830c267ce6b79a166228323ed52718f30302c1359836112346687"
             ],
             "markers": "python_version >= '3.8'",
-            "version": "==8.4.2"
+            "version": "==8.5.0"
         },
         "tiktoken": {
             "hashes": [
@@ -1015,6 +1024,14 @@
             ],
             "markers": "python_version >= '3.7'",
             "version": "==4.66.4"
+        },
+        "types-requests": {
+            "hashes": [
+                "sha256:97bac6b54b5bd4cf91d407e62f0932a74821bc2211f22116d9ee1dd643826caf",
+                "sha256:ed5e8a412fcc39159d6319385c009d642845f250c63902718f605cd90faade31"
+            ],
+            "markers": "python_version >= '3.8'",
+            "version": "==2.32.0.20240622"
         },
         "typing-extensions": {
             "hashes": [
